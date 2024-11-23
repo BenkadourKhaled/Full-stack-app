@@ -1,4 +1,4 @@
-package net.javaguides.ems.entity;
+package dz.khaled.benkadour.crud.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

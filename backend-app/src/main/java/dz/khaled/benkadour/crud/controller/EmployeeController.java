@@ -1,8 +1,8 @@
-package net.javaguides.ems.controller;
+package dz.khaled.benkadour.crud.controller;
 
+import dz.khaled.benkadour.crud.dto.EmployeeDto;
+import dz.khaled.benkadour.crud.service.EmployeeService;
 import lombok.AllArgsConstructor;
-import net.javaguides.ems.dto.EmployeeDto;
-import net.javaguides.ems.service.EmployeeService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

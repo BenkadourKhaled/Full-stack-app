@@ -1,4 +1,4 @@
-package net.javaguides.ems.exception;
+package dz.khaled.benkadour.crud.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

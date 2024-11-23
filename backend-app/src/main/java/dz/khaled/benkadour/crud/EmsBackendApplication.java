@@ -1,4 +1,4 @@
-package net.javaguides.ems;
+package dz.khaled.benkadour.crud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

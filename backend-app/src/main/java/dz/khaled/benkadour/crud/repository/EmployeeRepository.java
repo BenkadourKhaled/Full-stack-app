@@ -1,6 +1,6 @@
-package net.javaguides.ems.repository;
+package dz.khaled.benkadour.crud.repository;
 
-import net.javaguides.ems.entity.Employee;
+import dz.khaled.benkadour.crud.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface EmployeeRepository extends JpaRepository<Employee, Long> {

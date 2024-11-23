@@ -1,12 +1,12 @@
-package net.javaguides.ems.service.impl;
+package dz.khaled.benkadour.crud.service.impl;
 
+import dz.khaled.benkadour.crud.dto.EmployeeDto;
+import dz.khaled.benkadour.crud.entity.Employee;
+import dz.khaled.benkadour.crud.exception.ResourceNotFoundException;
+import dz.khaled.benkadour.crud.mapper.EmployeeMapper;
+import dz.khaled.benkadour.crud.repository.EmployeeRepository;
+import dz.khaled.benkadour.crud.service.EmployeeService;
 import lombok.AllArgsConstructor;
-import net.javaguides.ems.dto.EmployeeDto;
-import net.javaguides.ems.entity.Employee;
-import net.javaguides.ems.exception.ResourceNotFoundException;
-import net.javaguides.ems.mapper.EmployeeMapper;
-import net.javaguides.ems.repository.EmployeeRepository;
-import net.javaguides.ems.service.EmployeeService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

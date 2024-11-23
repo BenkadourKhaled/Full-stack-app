@@ -1,4 +1,4 @@
-package net.javaguides.ems;
+package dz.khaled.benkadour.crud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

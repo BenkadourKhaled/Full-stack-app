@@ -1,4 +1,4 @@
-package net.javaguides.ems.dto;
+package dz.khaled.benkadour.crud.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

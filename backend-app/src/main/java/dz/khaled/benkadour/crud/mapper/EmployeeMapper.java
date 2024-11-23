@@ -1,7 +1,7 @@
-package net.javaguides.ems.mapper;
+package dz.khaled.benkadour.crud.mapper;
 
-import net.javaguides.ems.dto.EmployeeDto;
-import net.javaguides.ems.entity.Employee;
+import dz.khaled.benkadour.crud.dto.EmployeeDto;
+import dz.khaled.benkadour.crud.entity.Employee;
 
 public class EmployeeMapper {
 
